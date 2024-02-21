@@ -1,1 +1,2 @@
-# belajar-kolaborasi
+# belajar-kolaborasi  
+Belajar github di dicoding sangat menyenangkan!  
